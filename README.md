@@ -14,6 +14,7 @@ The model does not use dark matter particles. Instead, it describes an additiona
 
 ## Formula
 V_total = sqrt( (G * M / R) + Omega )
+
 Omega = alpha * log10(M) * D * sqrt(R)
 
 text
