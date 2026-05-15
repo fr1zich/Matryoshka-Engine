@@ -1,4 +1,4 @@
-# Matryoshka Engine v1.2
+# Matryoshka Engine
 
 **A tool for measuring space tension density in galaxies**
 
