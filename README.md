@@ -78,11 +78,3 @@ D-фактор — это **плотность натяжения простра
 3. **Нет отрицательных значений.** Это не баг, а предсказание: отрицательное натяжение несовместимо с существованием галактик.
 
 ---
-
-## Как использовать
-
-```bash
-git clone https://github.com/fr1zich/Matryoshka-Engine.git
-cd Matryoshka-Engine
-pip install numpy matplotlib
-python engine.py
